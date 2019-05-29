@@ -1,0 +1,8 @@
+Name: Daniel Anzola Delgado
+
+This program was developed using Python as the programming language.
+
+Library required: networkx.
+
+Compile normally in Linux/MacOS terminal.
+Python version: 2.7
